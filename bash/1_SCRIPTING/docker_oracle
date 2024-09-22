@@ -1,0 +1,7 @@
+#!/bin/bash
+hostname -I
+dateo=$(date)
+espeak -k cantonese "initialize docker ORACLE container"
+sudo docker stop 8ae0d980f808
+sudo docker start 8ae0d980f808
+espeak -k cantonese "Ready"

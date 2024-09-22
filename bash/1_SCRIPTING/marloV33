@@ -1,0 +1,46 @@
+#!/bin/bash
+#Event-driven programming
+
+hostname -I
+dateo=$(date)
+
+echo ________________________________________
+echo __________ "marloV33 (((*)))"
+echo __________ Programmer: Alejandro Duhalde
+echo __________ My name is : MARLO AUTOMATA
+echo __________ Voice Assistant
+echo __________ LOG PATH:/tmp/marlo/log_marlo.log
+espeak -k cantonese "...HI, Alex... waiting please ..."
+espeak -k cantonese "...Starting ..."
+echo ________________________________________
+echo ________________________________________   
+echo ________________________________________
+echo ________________________________________
+echo ________________________________________
+echo _______________________________________
+echo ____VERIFICATION SETTING PARAMETERS_____
+echo ________________________________________ 
+
+ echo "|check| database connection"
+ espeak -k cantonese " checking database connection" 
+ #validate flag in database status, speak status database
+ espeak -k cantonese " database connection OK..." 
+
+ echo "| set | BACKUPS"
+ espeak -k cantonese " checking backups" 
+ #validate flag in database status, speak status database
+ espeak -k cantonese " Backups OK..." 
+
+ echo "| set | NEURONAL NETWORK "
+ espeak -k cantonese " starting NEURONAL NETWORK" 
+ #validate flag in database status, speak status database
+ espeak -k cantonese " NEURONAL NETWORK OK..." 
+
+   espeak -k cantonese " Charging contro panel..." 
+   espeak -k cantonese " wait..." 
+
+   echo ________________________________________
+   echo ________________________________________
+
+
+ 

@@ -1,0 +1,6 @@
+#!/bin/bash
+hostname -I
+dateo=$(date)
+espeak -k cantonese "stoping docker ORACLE container"
+sudo docker stop 8ae0d980f808
+espeak -k cantonese "stoped"
