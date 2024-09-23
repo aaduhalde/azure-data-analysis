@@ -1,6 +1,13 @@
 #!/bin/bash
 #Event-driven programming
 
+
+
+#set sound Y/N
+
+
+
+
 hostname -I
 dateo=$(date)
 
@@ -36,7 +43,7 @@ echo ________________________________________
  #validate flag in database status, speak status database
  espeak -k cantonese " NEURONAL NETWORK OK..." 
 
-   espeak -k cantonese " Charging contro panel..." 
+   espeak -k cantonese " Charging control panel..." 
    espeak -k cantonese " wait..." 
 
    echo ________________________________________
