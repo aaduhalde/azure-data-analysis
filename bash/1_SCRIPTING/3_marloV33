@@ -4,13 +4,6 @@
 
 
 #set sound Y/N
-
-
-
-
-hostname -I
-dateo=$(date)
-
 echo ________________________________________
 echo __________ "marloV33 (((*)))"
 echo __________ Programmer: Alejandro Duhalde
