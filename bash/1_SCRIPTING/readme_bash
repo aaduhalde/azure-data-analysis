@@ -5,6 +5,6 @@
 |xa.2|
 `----'
 
-to add marlo in BASH:
+to add marlov in BASH:
 echo 'export PATH="$PATH:/your/path"' >> ~/.bash_profile
 echo 'export PATH="$PATH:/your/path"' >> ~/.bashrc
