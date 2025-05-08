@@ -1,10 +1,11 @@
 ......
 :.  .:
 .'  '.
-|Px  |
+|Px  | 
 |xa.2|
 `----'
 
 to add marlov in BASH:
 echo 'export PATH="$PATH:/your/path"' >> ~/.bash_profile
+or
 echo 'export PATH="$PATH:/your/path"' >> ~/.bashrc
