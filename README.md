@@ -1,18 +1,23 @@
 🧭 Ejemplos de objetivos concretos (casos de uso posibles)
 
 Análisis de ventas por canal y región
+
 → Objetivo: detectar oportunidades de crecimiento y ajustar campañas según el rendimiento comercial.
 
 Optimización de inventario y rotación de productos
+
 → Objetivo: reducir costos de almacenamiento y mejorar la planificación de compras.
 
 Análisis del comportamiento del cliente
+
 → Objetivo: segmentar audiencias y personalizar estrategias de marketing.
 
 Monitoreo de indicadores de desempeño (KPIs) operativos
+
 → Objetivo: detectar cuellos de botella y oportunidades de mejora en procesos internos.
 
 Análisis de costos operativos y eficiencia financiera
+
 → Objetivo: optimizar el uso de recursos y tomar decisiones informadas para reducir gastos.
 
 
