@@ -41,27 +41,4 @@ Detectar procesos ineficientes o sobredimensionados.
 
 El objetivo principal es identificar cuellos de botella y oportunidades de mejora en procesos internos, utilizando datos simulados de una operación tipo (por ejemplo, logística, soporte técnico, producción o atención al cliente).
 
-Recolección de datos
-
-Procesamiento y transformación (ETL)
-
-Análisis exploratorio y visualización
-
-Automatización y publicación de reportes
-
-
-🛠️ Tecnologías y Herramientas Utilizadas
-
-Azure Data Factory (versión gratuita) – Orquestación de pipelines de datos
-
-Azure SQL Database (modo gratuito/local con Docker o versión gratuita de SQL Server Express) – Almacenamiento estructurado
-
-Looker Studio – Publicación de reportes online gratuitos
-
-Python (Jupyter Notebooks) – Limpieza, análisis exploratorio y modelado básico
-
-Azure Storage Explorer / Blob Storage (nivel gratuito) – Almacenamiento de archivos CSV, JSON o logs
-
-GitHub – Control de versiones y documentación
-
 💡 Ideal para escenarios de análisis de negocio, inteligencia comercial (BI), reporting, automatización de insights y toma de decisiones basada en datos.
