@@ -1,4 +1,5 @@
 🧭 Ejemplos de objetivos concretos (casos de uso posibles)
+
 Análisis de ventas por canal y región
 → Objetivo: detectar oportunidades de crecimiento y ajustar campañas según el rendimiento comercial.
 
